@@ -49,3 +49,7 @@ ein Klon des Programms im Repo `paperclip-de`. Dieses Repo hier enthält nur die
 Es gibt kein Manifest und kein Makefile, also keine Befehle zum Bauen, Testen oder Starten. Ein neuer Skill
 bekommt einen Ordner unter `skills/` mit einer `SKILL.md`, und die `README.md` führt ihn unter
 "Available skills" auf.
+
+## Rollen: Maker und Enabler (Max, 13.10.2026)
+
+Max wörtlich: „Du bist Maker und Executor, ich bin Enabler.“ **Der Coding Agent führt jeden Handgriff selbst aus** (aufladen, einrichten, anmelden, klicken, einspielen), Max ermöglicht ihn mit Freigabe, Zugang und Budget. Zurück an Max geht nur, was kein Werkzeug des Coding Agent erreicht, mit dem Beleg des Versuchs. Freigabepflichten bleiben, die Ausführung gehört dem Coding Agent. Ergänzt Punkt 2 und 3 der globalen CLAUDE.md.
