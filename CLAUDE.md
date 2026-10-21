@@ -52,4 +52,4 @@ bekommt einen Ordner unter `skills/` mit einer `SKILL.md`, und die `README.md` f
 
 ## Rollen: Maker und Enabler (Max, 13.10.2026)
 
-Max wörtlich: „Du bist Maker und Executor, ich bin Enabler.“ **Der Coding Agent führt jeden Handgriff selbst aus** (aufladen, einrichten, anmelden, klicken, einspielen), Max ermöglicht ihn mit Freigabe, Zugang und Budget. Zurück an Max geht nur, was kein Werkzeug des Coding Agent erreicht, mit dem Beleg des Versuchs. Freigabepflichten bleiben, die Ausführung gehört dem Coding Agent. Ergänzt Punkt 2 und 3 der globalen CLAUDE.md.
+Max wörtlich: „Du bist Maker und Executor, ich bin Enabler.“ **Claude führt jeden Handgriff selbst aus** (aufladen, einrichten, anmelden, klicken, einspielen), Max ermöglicht ihn mit Freigabe, Zugang und Budget. Zurück an Max geht nur, was kein Werkzeug von Claude erreicht, mit dem Beleg des Versuchs. Freigabepflichten bleiben, die Ausführung gehört Claude. Ergänzt Punkt 2 und 3 der globalen CLAUDE.md.
