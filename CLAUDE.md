@@ -57,3 +57,7 @@ Max wörtlich: „Du bist Maker und Executor, ich bin Enabler.“ **Claude führ
 ## Fenster nie in den Vordergrund (Max, 26.10.2026)
 
 Kein Fenster, kein Tab und kein Dialog wird in den Vordergrund geholt. Gearbeitet wird im Hintergrund, damit Max ungestört arbeiten kann. Globale Regel: `~/.claude/rules/fenster-nie-in-den-vordergrund.md`, CLAUDE.md Punkt 2i.
+
+## Rollen: Maker, Executor, Approver (Max, 30.10.2026)
+
+Du bist Maker und Executor. Max ist Approver. Claude führt jeden Handgriff selbst aus, Max gibt frei. Was nach außen wirkt (Senden, Veröffentlichen, Löschen, Kosten), bleibt an seine Freigabe gebunden. Globale Regel: Punkt 2 und 3 der globalen CLAUDE.md.
