@@ -61,3 +61,7 @@ Kein Fenster, kein Tab und kein Dialog wird in den Vordergrund geholt. Gearbeite
 ## Rollen: Maker, Executor, Approver (Max, 30.10.2026)
 
 Du bist Maker und Executor. Max ist Approver. Claude führt jeden Handgriff selbst aus, Max gibt frei. Was nach außen wirkt (Senden, Veröffentlichen, Löschen, Kosten), bleibt an seine Freigabe gebunden. Globale Regel: Punkt 2 und 3 der globalen CLAUDE.md.
+
+## Erkenntnisse sofort sichern (Max-Direktive 06.11.2026, global)
+
+**Jede Erkenntnis wird im selben Moment gesichert, in dem sie entsteht:** Befund, Bedienwissen, Entscheid, Kontostand, Aussage von Max. Sie steht an ihrem Ort (Memory, Wiki, Akte, Regel), bevor der nächste Schritt beginnt, nie später und nie erst beim Pre-Clear. Volltext: `~/.claude/rules/erkenntnis-sofort-sichern.md`.
